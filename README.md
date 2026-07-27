@@ -19,8 +19,6 @@ End-to-End Amazon Sales Analysis using Python, Power BI, EDA, Machine Learning, 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-yellow?style=for-the-badge&logo=powerbi)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-blueviolet?style=for-the-badge)
-
 </p>
 
 ---
