@@ -330,19 +330,19 @@ Increase visibility of highly rated products with fewer reviews.
 
 ## Executive Dashboard
 
-(Add Screenshot Here)
+![Dashboard1](Images/Page1.png)
 
 ---
 
 ## Product Analysis Dashboard
 
-(Add Screenshot Here)
+![Dashboard2](Images/Page2.png)
 
 ---
 
 ## Advanced Insights Dashboard
 
-(Add Screenshot Here)
+![Dashboard3](Images/Page3.png)
 
 ---
 ## Challenges Faced
