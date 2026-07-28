@@ -397,7 +397,7 @@ Amazon-Sales-Analysis-Using-Python-and-PowerBI
 Clone the repository
 
 ```bash
-git clone https://github.com/your-narnesatwika/Amazon-Sales-Analysis-Using-Python-and-PowerBI.git
+git clone https://github.com/narnesatwika/Amazon-Sales-Analysis-Using-Python-and-PowerBI.git
 ```
 
 Install dependencies
