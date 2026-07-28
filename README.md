@@ -427,33 +427,25 @@ jupyter notebook
 
 # 👩‍💻 Author
 
-## Narne Sathwika
+## Narne Satwika
 
-### Aspiring Data Analyst | Business Analyst
+Aspiring Data Analyst passionate about transforming data into actionable business insights through analytics, visualization, and machine learning.
 
-**Skills**
+### 🌐 Portfolio
 
-- Python
-- SQL
-- Power BI
-- Excel
-- Pandas
-- NumPy
-- Machine Learning
-- Data Visualization
-- Business Analytics
+https://portfolio-henna-ten-25.vercel.app/
 
----
-## Contact
+### 💼 LinkedIn
 
-📧 Email:
-narnesatwika1234@email.com
+https://www.linkedin.com/in/narne-satwika
 
-💼 LinkedIn:
-https://www.linkedin.com/in/satwikanarne/
+### 💻 GitHub
 
-🐙 GitHub:
 https://github.com/narnesatwika
-<p align="center">
+
+### 📧 Email
+
+narnesatwika1234@gmail.com
+
 ⭐ If you found this project useful, please consider giving it a star!
 </p>
